@@ -1,3 +1,7 @@
+# @summary Manage the rwhod daemon
+#
+# @param package_name
+# @param service_name
 class rwhod (
   Optional[String] $package_name,
   String $service_name,
