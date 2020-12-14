@@ -6,7 +6,6 @@ class rwhod (
   Optional[String] $package_name,
   String $service_name,
 ) {
-
   if $package_name {
     package { $package_name:
       ensure => installed,
