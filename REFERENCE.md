@@ -10,21 +10,24 @@
 
 ## Classes
 
-### `rwhod`
+### <a name="rwhod"></a>`rwhod`
 
 Manage the rwhod daemon
 
 #### Parameters
 
-The following parameters are available in the `rwhod` class.
+The following parameters are available in the `rwhod` class:
 
-##### `package_name`
+* [`package_name`](#-rwhod--package_name)
+* [`service_name`](#-rwhod--service_name)
+
+##### <a name="-rwhod--package_name"></a>`package_name`
 
 Data type: `Optional[String]`
 
 
 
-##### `service_name`
+##### <a name="-rwhod--service_name"></a>`service_name`
 
 Data type: `String`
 
