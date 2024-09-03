@@ -2,7 +2,7 @@
   "name": "opuscodium-rwhod",
   "version": "0.0.0",
   "author": "Opus Codium",
-  "summary": "Installs, configures, and manages TLS checker",
+  "summary": "Manage the rwhod daemon",
   "license": "Apache-2.0",
   "source": "https://github.com/opus-codium/puppet-rwhod",
   "project_page": "https://github.com/opus-codium/puppet-rwhod",
