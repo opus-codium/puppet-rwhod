@@ -1,6 +1,6 @@
 {
   "name": "opuscodium-rwhod",
-  "version": "1.0.0",
+  "version": "1.0.1-rc0",
   "author": "Opus Codium",
   "summary": "Manage the rwhod daemon",
   "license": "Apache-2.0",
@@ -8,6 +8,7 @@
   "project_page": "https://github.com/opus-codium/puppet-rwhod",
   "issues_url": "https://github.com/opus-codium/puppet-rwhod/pulls",
   "dependencies": [
+
   ],
   "operatingsystem_support": [
     {
@@ -15,7 +16,7 @@
       "operatingsystemrelease": [
         "10",
         "11",
-	"12"
+        "12"
       ]
     },
     {
