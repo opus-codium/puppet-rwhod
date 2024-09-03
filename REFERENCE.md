@@ -25,11 +25,11 @@ The following parameters are available in the `rwhod` class:
 
 Data type: `Optional[String]`
 
-
+The name of the rwhod package
 
 ##### <a name="-rwhod--service_name"></a>`service_name`
 
 Data type: `String`
 
-
+The name of the rwhod service
 
